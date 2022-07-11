@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dopplen",
+    "home_page_url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/",
+    "feed_url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.json",
+    "description": "Blog example for Mediumish theme with VuePress",
+    "items": [
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/07/12/top-five-inbuilt-python-libraries/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/07/12/top-five-inbuilt-python-libraries/",
+            "title": "top 5 python in built libraries",
+            "summary": "learn how to use common python in built python tools",
+            "date_modified": "2022-07-11T20:00:00.000Z"
+        }
+    ]
+}

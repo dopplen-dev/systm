@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/</id>
+    <title>Dopplen</title>
+    <updated>2022-07-11T23:03:15.324Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/"/>
+    <link rel="self" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom"/>
+    <subtitle>Blog example for Mediumish theme with VuePress</subtitle>
+    <entry>
+        <title type="html"><![CDATA[top 5 python in built libraries]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/07/12/top-five-inbuilt-python-libraries/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/07/12/top-five-inbuilt-python-libraries/">
+        </link>
+        <updated>2022-07-11T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[learn how to use common python in built python tools]]></summary>
+    </entry>
+</feed>
